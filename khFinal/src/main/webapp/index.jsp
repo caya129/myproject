@@ -7,6 +7,7 @@
 <title>Spring Framework</title>
 </head>
 <body>
+<!-- 아아 -->
 <a href="${pageContext.request.contextPath}/main/main.do">Main</a><br>
 <a href="${pageContext.request.contextPath}/order/orderMain.do">orderMain</a><br>
 
